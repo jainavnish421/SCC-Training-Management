@@ -1,2 +1,17 @@
-"node_modules/" 
-node_modules
+# Node.js dependencies
+node_modules/
+
+# Logs
+logs/
+*.log
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# Build directories
+dist/
+build/
+
+# Environment files
+.env
